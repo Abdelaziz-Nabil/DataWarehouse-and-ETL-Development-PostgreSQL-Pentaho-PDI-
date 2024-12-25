@@ -1,0 +1,1 @@
+core_dwh: Contains SQL scripts to create core tables in the core schema (products, sales, payment).
