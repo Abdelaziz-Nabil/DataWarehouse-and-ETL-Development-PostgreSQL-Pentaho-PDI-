@@ -1,0 +1,6 @@
+-- CREATE SCHEMA: core
+
+-- DROP SCHEMA IF EXISTS core ;
+
+CREATE SCHEMA IF NOT EXISTS core
+    AUTHORIZATION postgres;
