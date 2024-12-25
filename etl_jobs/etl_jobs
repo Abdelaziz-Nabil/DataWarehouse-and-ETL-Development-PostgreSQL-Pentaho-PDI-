@@ -1,0 +1,1 @@
+etl_jobs: Folder containing Pentaho (PDI) job files for ETL processes, including initial and delta loads.
