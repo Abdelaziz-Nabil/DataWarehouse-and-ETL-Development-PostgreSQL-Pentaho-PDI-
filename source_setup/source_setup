@@ -1,0 +1,1 @@
+source_setup: Contains SQL scripts to create and populate source tables in the public schema (products, sales, date, category).
