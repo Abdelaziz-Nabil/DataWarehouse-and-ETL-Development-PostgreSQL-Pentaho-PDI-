@@ -1,0 +1,1 @@
+staging_setup: Contains SQL scripts to create staging tables in the staging schema (products, sales, date).
